@@ -9,3 +9,11 @@ Project Reflection
 	As a team, we all understand the consequences of technical debt. We do not want to provide a product to a customer and then be told we have to rework the project. As a company, Grand Stream Systems aims to only deliver a product to a customer once – a one and done approach. We want to absolutely avoid technical debt – this is a reason we have stayed in business for so long. A customer can come to us and be assured that they receive an outstanding product that 100% follows all technical requirements that were laid out. They have signed off on what we worked on and know that that is what they are going to get. We take full responsibility for all projects we work on and know that if something does not work right, it has the potential to hurt people if it is that kind of project. We take this very seriously and instill caution in our team. Yes, we have a timeline, but we would rather be a couple weeks behind rather than deliver an underrated product. That is why we follow our testing process so closely. 
 
 
+How can I ensure that my code, program, or software is functional and secure?
+I think it is very important to follow a continuous testing approach that begins at the very beginning of the project. I think using many different types of test throughout project creating ticks off a lot of boxes and makes sure we don't forget anything. I also think working on a project as a team is wonderful. We can all look at each other's work and keep each other accountable throughout the process. 
+How do I interpret user needs and incorporate them into a program?
+I believe filling out project timeslines and project descriptions are very important. Having those initial meetings with the client and correctly interpreting them makes a huge difference. I also think giving the client a version of the projectearly on is wonderful. It gives the client an example and may save money, as well as, time in the long run. 
+How do I approach designing software?
+I think a slow approach to designing software is important. Yes, there are timelines - but do the timelines even matter if you aren't doing the task properly? Being efficient and relieable is key in a team environment and each memeber can make sure everyone is doing their part in doing a thorough job. 
+
+
